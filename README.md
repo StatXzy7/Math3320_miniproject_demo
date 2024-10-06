@@ -22,6 +22,4 @@ To get started with this project:
    git clone https://github.com/yourusername/math3320-official-miniproject.git
    ```
 
-2. **Set up the environment** using our provided setup guide.
-
-3. Explore the individual mini-projects located in the `/projects` directory for detailed examples
+3. Explore the Jupyter Notebook demo for each mini-project.
