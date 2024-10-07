@@ -19,7 +19,7 @@ To get started with this project:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/math3320-official-miniproject.git
+   git clone https://github.com/StatXzy7/Math3320_miniproject_demo.git
    ```
 
 3. Explore the Jupyter Notebook demo for each mini-project.
